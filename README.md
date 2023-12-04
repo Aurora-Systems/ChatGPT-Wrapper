@@ -1,7 +1,8 @@
-# Tauri + Vanilla TS
+# ChatGPT Wrapper
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
 
-## Recommended IDE Setup
+[Download ChatGPT](https://github.com/Aurora-Systems/ChatGPT/blob/main/installer/ChatGPT_0.0.1_x64_en-US.msi)
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+This is not a native application. it will not work without an internet connection. If you found this helpful [buy me a coffee](https://www.buymeacoffee.com/zaynekomichi)
+
+
